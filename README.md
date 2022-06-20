@@ -1,4 +1,4 @@
-# API-collections
+# API Collections
 Projeto de estudo de coleções em Kotlin.
 
 ## Conteúdo revisado
